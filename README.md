@@ -17,4 +17,4 @@ Cada cena contém:
 Proporcionar uma experiência imersiva para **estudantes, turistas, comunidade acadêmica**, permitindo conhecer o espaço de forma digital.  
 
 ## Acesse o Tour  
-👉 [Clique aqui para acessar o tour](https://github.com/isadorw/prova2-sistemas-multimidia)  
+👉 [Clique aqui para acessar o tour](https://isadorw.github.io/prova2-sistemas-multimidia/)  
