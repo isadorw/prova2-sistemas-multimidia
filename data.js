@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": -0.72574803196113,
           "pitch": -0.1599489306032158,
           "title": "Academia",
-          "text": "Text"
+          "text": "Academia ao ar livre para alongamento e exercícios leves, ideal para terceira idade e caminhadas no parque."
         }
       ]
     },
@@ -195,7 +195,7 @@ var APP_DATA = {
           "yaw": 2.3297192956448107,
           "pitch": -0.10461395415478414,
           "title": "Parquinho para crianças",
-          "text": "<br>"
+          "text": "Parquinho infantil com brinquedos seguros e espaço para diversão das crianças no parque."
         }
       ]
     },
@@ -238,7 +238,7 @@ var APP_DATA = {
           "yaw": -2.844615144909856,
           "pitch": -0.07623533582218656,
           "title": "Parquinho para crianças 2",
-          "text": "<br>"
+          "text": "Outro Parquinho infantil com brinquedos seguros e espaço para diversão das crianças no parque."
         }
       ]
     },
